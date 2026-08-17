@@ -2,13 +2,13 @@
   <h1>✨ Smart Event Assistant</h1>
   <p><strong>A Next-Generation, AI-Powered Smart Event Assistant</strong></p>
   <p>Seamlessly plan, visualize, and budget your dream events using the power of Google Gemini AI and WebXR.</p>
-</div>
+</div> 
 
 <br />
 
 ## 🌟 Overview
 
-**Lumina Event Genie** is a comprehensive web platform designed to take the stress out of event planning. By combining modern React aesthetics (Glassmorphism, GSAP Animations) with a robust Express + MongoDB backend, this application offers users intelligent chatbot assistance, automated budget planning, and an immersive AR preview engine.
+**Event Genie** is a comprehensive web platform designed to take the stress out of event planning. By combining modern React aesthetics (Glassmorphism, GSAP Animations) with a robust Express + MongoDB backend, this application offers users intelligent chatbot assistance, automated budget planning, and an immersive AR preview engine.
 
 ---
 
